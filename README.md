@@ -1,6 +1,6 @@
 # NeurIPS 2024 Creative AI Track
 
-![header image](assets/CreativeAi-Fencing_Hallucination_2023_Weihao- Qiu.jpg)
+<img src="./assets/CreativeAi-Fencing_Hallucination_2023_Weihao-%20Qiu.jpg" alt="header image" style="margin-left: auto; margin-right: auto; width: 100%;">
 (Image credit: Fencing Hallucination (2023), by Weihao Qiu)
 
 Following last year’s incredible success, we are thrilled to announce the NeurIPS 2024 Creative AI track. We invite research papers and artworks that showcase innovative approaches of artificial intelligence and machine learning in art, design, and creativity. 
