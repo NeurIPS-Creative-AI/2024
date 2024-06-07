@@ -1,7 +1,12 @@
 # NeurIPS 2024 Creative AI Track
 
+Sun, Dec 8, 2024 – Thu, Dec 12, 2024
+
+Vancouver, Canada
+
 <img src="./assets/CreativeAi-Fencing_Hallucination_2023_Weihao-%20Qiu.jpg" alt="header image" style="margin-left: auto; margin-right: auto; width: 100%;">
-(Image credit: Fencing Hallucination (2023), by Weihao Qiu)
+Image credit: Fencing Hallucination (2023), by Weihao Qiu
+<br /> <br /> 
 
 Following last year’s incredible success, we are thrilled to announce the NeurIPS 2024 Creative AI track. We invite research papers and artworks that showcase innovative approaches of artificial intelligence and machine learning in art, design, and creativity. 
 
@@ -38,10 +43,11 @@ To submit:  We invite authors to submit their original work. An artwork submissi
 * Title
 * Artist(s)
 * Year
-* Description (maximum 3 pages in PDF)
-  * Description of the work and the roles of AI and ML 
-  * Description on how the theme of Ambiguity is addressed
-  * Biography of all authors including relevant prior works
+* 2 page max PDF submission consisting of the following two parts:
+   A) 1 page max artwork description, including (but not limited to):
+     - the work and the roles of AI and ML
+     - how the theme of Ambiguity is addressed
+   B) 1 page max biography of all artists including relevant prior works.
 * Thumbnail image of the work (<100MB)
 * 3-min video preview of the work (<100MB)
 
