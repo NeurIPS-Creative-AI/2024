@@ -36,7 +36,7 @@ Since we realize that NeurIPS is not a traditional venue for showing artwork, he
 
 We invite the submission of creative work that showcases innovative use of AI and ML. We highly encourage the authors to conceptually focus on this year's theme of "Ambiguity".  We invite submissions in all areas of creativity including visual art, music, performing arts, film, design, architecture, writing, poetry, and more.
 
-The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both are welcome.
+The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both approaches are welcome.
 
 To submit:  We invite authors to submit their original work. An artwork submission requires the following:
 1. Title
