@@ -39,17 +39,16 @@ We invite the submission of creative work that showcases innovative use of AI an
 The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both are welcome.
 
 To submit:  We invite authors to submit their original work. An artwork submission requires the following:
-
-* Title
-* Artist(s)
-* Year
-* 2-page max PDF submission consisting of the following two parts:
+1. Title
+2. Artist(s)
+3. Year
+4. 2-page max PDF submission consisting of the following two parts:
    1. 1-page max artwork description, including (but not limited to):
        - the work and the roles of AI and ML
        - how the theme of Ambiguity is addressed
    2. 1-page max biography of all artists including relevant prior works.
-* Thumbnail image of the work (<100MB)
-* 3-min video preview of the work (<100MB)
+5. Thumbnail image of the work (<100MB)
+6. 3-min video preview of the work (<100MB)
 
 The submission portal will open sometime in July.
 
