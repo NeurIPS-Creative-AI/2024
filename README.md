@@ -27,13 +27,11 @@ To submit: We invite authors to submit their papers. We expect papers to be 2-6 
 
 ## Artworks
 
-We invite the submission of creative work that showcases innovative use of AI and ML. We highly encourage the authors to conceptually focus on this year's theme of "Ambiguity".  We invite submissions in all areas of creativity including visual art, music, performing arts, film, design, architecture, writing, poetry, and more. 
+Since we realize that NeurIPS is not a traditional venue for showing artwork, here is some context. NeurIPS is a well-known and prestigious AI/ML conference that tens of thousands researchers from academia and industry attend every year. Selected artworks at the Creative AI track will be presented on large display screens at the conference, and the artists will have the opportunity to interact with the NeurIPS research community to germinate more collaborative ideas.
+
+We invite the submission of creative work that showcases innovative use of AI and ML. We highly encourage the authors to conceptually focus on this year's theme of "Ambiguity".  We invite submissions in all areas of creativity including visual art, music, performing arts, film, design, architecture, writing, poetry, and more.
 
 The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both are welcome.
-
-The submission portal will open sometime in July.
-
-NeurIPS is a prestigious AI/ML conference that tens of thousands researchers from academia and industry attend every year. Selected works at the Creative AI track will be presented on large display screens at the conference and the authors will have the opportunity to interact with the NeurIPS research community to germinate more collaborative ideas.
 
 To submit:  We invite authors to submit their original work. An artwork submission requires the following:
 
@@ -47,16 +45,18 @@ To submit:  We invite authors to submit their original work. An artwork submissi
 * Thumbnail image of the work (<100MB)
 * 3-min video preview of the work (<100MB)
 
+The submission portal will open sometime in July.
+
 ## Single-blind review policy
 
 ## Conference policy
-If a work is accepted **at least one author must purchase a Conference & Tutorials registration and attend in person.** For pricing visit the [pricing page](https://neurips.cc/Conferences/2024/Pricing). For registration information visit the [registration page](https://neurips.cc/Register/view-registration). The location of the conference is Vancouver and the authors are responsible for their travel arrangements and expenses. The conference does not provide travel funding. 
+If a work is accepted **at least one author/artist must purchase a Conference & Tutorials registration and attend in person.** For pricing visit the [pricing page](https://neurips.cc/Conferences/2024/Pricing). For registration information visit the [registration page](https://neurips.cc/Register/view-registration). The location of the conference is Vancouver and the authors/artists are responsible for their travel arrangements and expenses. The conference does not provide travel funding. Please contact us if you have any questions.
 
 # Contact
 
 For updates, please check this website regularly.
 
-To stay up-to-date with all future announcements, please join our mailing list creativeaiml@googlegroups.com.
+To stay up-to-date with all future announcements, please join our mailing list at creativeaiml@googlegroups.com.
 
 For other inquiries, please contact creative-ai-chairs@neurips.cc.
 
