@@ -43,11 +43,11 @@ To submit:  We invite authors to submit their original work. An artwork submissi
 * Title
 * Artist(s)
 * Year
-* 2 page max PDF submission consisting of the following two parts:
-   A) 1 page max artwork description, including (but not limited to):
-     - the work and the roles of AI and ML
-     - how the theme of Ambiguity is addressed
-   B) 1 page max biography of all artists including relevant prior works.
+* 2-page max PDF submission consisting of the following two parts:
+   1. 1-page max artwork description, including (but not limited to):
+       - the work and the roles of AI and ML
+       - how the theme of Ambiguity is addressed
+   2. 1-page max biography of all artists including relevant prior works.
 * Thumbnail image of the work (<100MB)
 * 3-min video preview of the work (<100MB)
 
