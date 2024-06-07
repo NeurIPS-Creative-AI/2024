@@ -56,9 +56,9 @@ If a work is accepted **at least one author/artist must purchase a Conference & 
 
 For updates, please check this website regularly.
 
-To stay up-to-date with all future announcements, please join our mailing list at creativeaiml@googlegroups.com.
+To stay up-to-date with all future announcements, please join our [mailing list](https://substack.com/@neuripscreativeai). You can also watch the [@ML4CDWorkshop](https://x.com/ML4CDworkshop) twitter for announcements.
 
-For other inquiries, please contact creative-ai-chairs@neurips.cc.
+For other inquiries, please contact [creative-ai-chairs@neurips.cc](mailto:creative-ai-chairs@neurips.cc) and/or [neuripscreativeai@gmail.com](mailto:neuripscreativeai@gmail.com).
 
 * Jean Oh / roBot Intelligence Group / Carnegie Mellon University
 * Marcelo Coelho / Design Intelligence Lab / MIT
