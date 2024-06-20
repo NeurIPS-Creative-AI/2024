@@ -55,7 +55,7 @@ To submit:  We invite authors to submit their original work. An artwork submissi
 5. Thumbnail image of the work (<100MB)
 6. 3-min video preview of the work (<100MB)
 
-The submission portal will open sometime in July.
+The artwork should be submitted via [CMT](place-holder-link-to-cmt-portal)
 
 ## Single-blind review policy
 
