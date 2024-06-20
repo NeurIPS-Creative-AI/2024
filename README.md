@@ -1,6 +1,6 @@
 # NeurIPS 2024 Creative AI Track
 
-Sun, Dec 8, 2024 – Thu, Dec 12, 2024
+Tue Dec 10, 2024  –  Fri Dec 13, 2024 (Conference Sessions of [NeurIPS 2024 Meeting Dates](https://neurips.cc/Conferences/2024/Dates))
 
 Vancouver, Canada
 
@@ -26,8 +26,13 @@ We particularly encourage works that cross traditional disciplinary boundaries t
 
 We invite submissions for research papers that propose original ideas or novel uses of AI and ML for creativity. The topics of research papers are not restricted to the theme of ambiguity. **Please note that this track will not be part of the NeurIPS conference proceedings. If you wish to publish in the NeurIPS proceedings please submit your paper directly to the main track.**
 
-To submit: We invite authors to submit their papers. We expect papers to be 2-6 pages without including references. The formatting instructions and templates will become available soon. The submission portal will open sometime in July.
+To submit: We invite authors to submit their papers. A paper submission should follow these requirements:
 
+* Submissions should be 2-6 pages, including all figures and tables. The manuscript should be prepare with the template (download the template as a bundle [here](./template.zip).)
+* Additional pages containing the references and acknowledgements are allowed.  Please carefully follow the Latex template for this track when preparing proposals.
+* We follow the NeurIPS template format, but with the appropriate headings.
+* We also do not  hide the names of the authors: Reviewing is single-blind, hence the paper should not be anonymized.
+* Papers should be submitted via [CMT](place-holder-link-to-cmt-portal)
 
 
 ## Artworks
