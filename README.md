@@ -26,7 +26,7 @@ We particularly encourage works that cross traditional disciplinary boundaries t
 
 We invite submissions for research papers that propose original ideas or novel uses of AI and ML for creativity. The topics of research papers are not restricted to the theme of ambiguity. **Please note that this track will not be part of the NeurIPS conference proceedings. If you wish to publish in the NeurIPS proceedings please submit your paper directly to the main track.**
 
-To submit: We invite authors to submit their papers. A paper submission should follow these requirements:
+**To submit**: We invite authors to submit their papers. A paper submission should follow these requirements:
 
 * Submissions should be 2-6 pages, including all figures and tables. Additional pages containing the references and acknowledgements are allowed.  Please carefully follow the Latex template for this track when preparing proposals.
 * We follow the NeurIPS template format, but with the appropriate footnote. 
@@ -43,7 +43,7 @@ We invite the submission of creative work that showcases innovative use of AI an
 
 The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both approaches are welcome.
 
-To submit:  We invite authors to submit their original work. An artwork submission requires the following:
+**To submit**:  We invite authors to submit their original work. An artwork submission requires the following:
 * The submission of art would should be an archive file. You can use common archive format like ``.zip``, ``.7z``, ``.tar``, ``.tar.gz``, ``.tar.bz2`` ``.tar.xz``.
 * The submission should with the following contents:
    1. 2-page max PDF submission, showing Title / Artist(s) / Year information, and consisting of the following two parts:
