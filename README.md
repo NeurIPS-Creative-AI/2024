@@ -32,7 +32,7 @@ To submit: We invite authors to submit their papers. A paper submission should f
 * We follow the NeurIPS template format, but with the appropriate footnote. 
 * We also do not hide the names of the authors: Reviewing is single-blind, hence the paper should not be anonymized.
 * Papers should be prepare with the template (download the template [here](./assets/neurips_2024.sty).) This template is identical to the [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) except for a different footnote. Refer to [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) on how to use the template, and note that you should use ``preprint`` option, i.e. ``\usepackage[preprint]{neurips_2024}``, to show author names.
-* Papers should be submitted via [CMT](place-holder-link-to-cmt-portal)
+* Papers should be submitted via [CMT](place-holder-link-to-cmt-portal).
 
 
 ## Artworks
@@ -44,18 +44,16 @@ We invite the submission of creative work that showcases innovative use of AI an
 The final submission format will be a **3-minute video**. Some folks choose to use the video as an explainer video of their artwork with voiceover, whereas other people choose to just have the video showcase the artwork itself. Both approaches are welcome.
 
 To submit:  We invite authors to submit their original work. An artwork submission requires the following:
-1. Title
-2. Artist(s)
-3. Year
-4. 2-page max PDF submission consisting of the following two parts:
-   1. 1-page max artwork description, including (but not limited to):
-       - the work and the roles of AI and ML
-       - how the theme of Ambiguity is addressed
-   2. 1-page max biography of all artists including relevant prior works.
-5. Thumbnail image of the work (<100MB)
-6. 3-min video preview of the work (<100MB)
-
-The artwork should be submitted via [CMT](place-holder-link-to-cmt-portal)
+* The submission of art would should be a zip file. you can use common archive format like ``.zip``, ``.7z``, ``.tar``, ``.tar.gz``, ``.tar.bz2`` ``.tar.xz``.
+* The submission should with the following contents:
+   1. 2-page max PDF submission, showing Title / Artist(s) / Year information, and consisting of the following two parts:
+      1. 1-page max artwork description, including (but not limited to):
+          - the work and the roles of AI and ML
+          - how the theme of Ambiguity is addressed
+      2. 1-page max biography of all artists including relevant prior works.
+   1. Thumbnail image of the work (<100MB)
+   1. 3-min video preview of the work (<100MB)
+* The artwork should be submitted via [CMT](place-holder-link-to-cmt-portal).
 
 ## Single-blind review policy
 
