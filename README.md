@@ -32,7 +32,7 @@ We invite submissions for research papers that propose original ideas or novel u
 * We follow the NeurIPS template format, but with the appropriate footnote. 
 * We also do not hide the names of the authors: Reviewing is single-blind, hence the paper should not be anonymized.
 * Papers should be prepare with the template (download the template [here](./assets/neurips_2024.sty).) This template is identical to the [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) except for a different footnote. Refer to [NeurIPS 2024 LaTeX style file](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) on how to use the template, and note that you should use ``preprint`` option, i.e. ``\usepackage[preprint]{neurips_2024}``, to show author names.
-* Papers should be submitted via [CMT](place-holder-link-to-cmt-portal).
+* Papers should be submitted via [CMT](https://cmt3.research.microsoft.com/NuerIPSCAIT2024/).
 
 
 ## Call for Artworks
@@ -53,7 +53,7 @@ The final submission format will be a **3-minute video**. Some folks choose to u
       2. 1-page max biography of all artists including relevant prior works.
    1. Thumbnail image of the work (<100MB)
    1. 3-min video preview of the work (<100MB)
-* The artwork should be submitted via [CMT](place-holder-link-to-cmt-portal).
+* The artwork should be submitted via [CMT](https://cmt3.research.microsoft.com/NuerIPSCAIT2024/).
 
 ## Single-blind review policy
 
