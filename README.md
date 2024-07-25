@@ -16,8 +16,8 @@ We particularly encourage works that cross traditional disciplinary boundaries t
 
 # Important Dates:
 
-* **August 2**: Submission Deadline, for both Papers & Artworks
-* **September 26**: Decision
+* **August 16**  ~August 2~: Submission Deadline, for both Papers & Artworks
+* **October 17** ~September 26~: Decision
 * **October 30**: Final Camera-Ready Submission
 
 # Call for Papers and Artworks
@@ -58,7 +58,7 @@ The final submission format will be a **3-minute video**. Some folks choose to u
 ## Single-blind review policy
 
 ## Conference policy
-If a work is accepted **at least one author/artist must purchase a Conference & Tutorials registration and attend in person.** For pricing visit the [pricing page](https://neurips.cc/Conferences/2024/Pricing). For registration information visit the [registration page](https://neurips.cc/Register/view-registration). The location of the conference is Vancouver and the authors/artists are responsible for their travel arrangements and expenses. The conference does not provide travel funding. Please contact us if you have any questions.
+If a work is accepted **at least one author/artist must purchase a Conference & Tutorials registration and attend in person.** For pricing visit the [pricing page](https://neurips.cc/Conferences/2024/Pricing). For registration information visit the [registration page](https://neurips.cc/Register/view-registration). The location of the conference is Vancouver and the authors/artists are responsible for their travel arrangements and expenses. The conference does not provide travel funding, **but some expo badges will be available for those who attend the Creative AI track only (and not the main track) for nearly free**. Please contact us if you have any questions.
 
 # Contact
 
