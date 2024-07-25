@@ -16,8 +16,8 @@ We particularly encourage works that cross traditional disciplinary boundaries t
 
 # Important Dates:
 
-* **August 16**  ~August 2~: Submission Deadline, for both Papers & Artworks
-* **October 17** ~September 26~: Decision
+* **August 16**  <del>August 2</del>: Submission Deadline, for both Papers & Artworks
+* **October 17** <del>September 26</del>: Decision
 * **October 30**: Final Camera-Ready Submission
 
 # Call for Papers and Artworks
