@@ -55,7 +55,7 @@ While it is recommended to have a 3-minute length video, it is okay to go slight
 
 ### Poster presentation:
 
-NeurIPS provides a landscape board (8 ft x 4 ft). There is no formal oral presentation for the Creative AI Track, just poster sessions.
+NeurIPS provides a landscape board (8 ft x 4 ft). There are only poster presentations for the Creative AI Track (no oral presentations).
 
 
 
