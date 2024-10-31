@@ -22,11 +22,11 @@ We particularly encourage works that cross traditional disciplinary boundaries t
 
 # FAQ
 
-## Schedule
+### Schedule
 
 The Creativity Track is scheduled for Tuesday (09:00-12:00, 13:00-16:00) and Wednesday (09:00-12:00, 13:00-16:00). 
 
-## Registration 
+### Registration 
 
 __Exhibitor Badge:__ Each accepted submission will receive 2 “exhibitor badges” at no cost that can be used to access to the Creative AI track exhibition area and all public spaces at the venue (but not the sessions at the main NeurIPS conference sessions or workshops).  
 
@@ -41,19 +41,19 @@ __CMT:__ Submit your camera-ready submission on the [CMT portal](https://cmt3.re
 
 ## On-site Presentation Format
 
-### Presentation Time and Location: 
+__Presentation Time and Location:__
 
 You will be able to find your session schedule on the NeurIPS website when you log in using the same email address used for the submission. It is advised to arrive earlier on the same day of your presentation if your setup is complex. 
 
-### Booth presentation:  
+__Booth presentation:__
 
 Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor, and a bulletin board for a landscape poster. If you need additional equipment it is your responsibility to bring it, or locally arrange them.  
 
-### Video presentation: 
+__Video presentation:__
 
 While it is recommended to have a 3-minute length video, it is okay to go slightly over 3 minutes if needed. Your video submissions will be displayed on screens in the conference areas in a loop. 
 
-### Poster presentation:
+__Poster presentation:__
 
 NeurIPS provides a landscape board (8 ft x 4 ft). There are only poster presentations for the Creative AI Track (no oral presentations).
 
