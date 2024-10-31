@@ -36,7 +36,7 @@ __Main Conference Registration:__ To attend the main NeurIPS conference sessions
 
 __Papers and Videos:__ Your final submission must be (1) camera-ready, & (2) address the reviewers’ comments. 
 
-__CMT:__ Submit your camera-ready submission on the CMT portal (https://cmt3.research.microsoft.com/NuerIPSCAIT2024). You can consult the official CMT document for submission instructions: (https://cmt3.research.microsoft.com/docs/help/author/camera-ready-submission.html) 
+__CMT:__ Submit your camera-ready submission on the [CMT portal](https://cmt3.research.microsoft.com/NuerIPSCAIT2024). You can consult the official CMT document for [submission instructions](https://cmt3.research.microsoft.com/docs/help/author/camera-ready-submission.html).
 
 
 ## On-site Presentation Format
