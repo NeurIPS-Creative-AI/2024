@@ -47,7 +47,7 @@ You will be able to find your session schedule on the NeurIPS website when you l
 
 __Booth presentation:__
 
-Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor, and a bulletin board for a landscape poster. If you need additional equipment it is your responsibility to bring it, or locally arrange them.  
+Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor (the dimensions for the 32" monitors in the Creative AI session room are 1920x1080), and a bulletin board for a landscape poster. If you need additional equipment it is your responsibility to bring it, or locally arrange them.  
 
 __Video presentation:__
 
