@@ -49,7 +49,7 @@ __Booth presentation:__
 
 Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor (the dimensions for the 32" monitors in the Creative AI session room are 1920x1080), and a bulletin board for a landscape poster. 
 
-If you need additional equipment it is your responsibility to bring it, or locally arrange them. FYI you can can order a monitor or other equipment through the venue by emailing wbuttimore@proshow.com or pfalk@proshow.com .
+If you need additional equipment it is your responsibility to bring it, or locally arrange them. FYI you can order a monitor or other equipment through the venue by emailing wbuttimore@proshow.com or pfalk@proshow.com .
 
 __Video presentation:__
 
