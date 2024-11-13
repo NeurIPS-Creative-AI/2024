@@ -47,7 +47,9 @@ You will be able to find your session schedule on the NeurIPS website when you l
 
 __Booth presentation:__
 
-Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor (the dimensions for the 32" monitors in the Creative AI session room are 1920x1080), and a bulletin board for a landscape poster. If you need additional equipment it is your responsibility to bring it, or locally arrange them.  
+Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor (the dimensions for the 32" monitors in the Creative AI session room are 1920x1080), and a bulletin board for a landscape poster. 
+
+If you need additional equipment it is your responsibility to bring it, or locally arrange them. FYI you can can order a monitor or other equipment through the venue by emailing wbuttimore@proshow.com or pfalk@proshow.com .
 
 __Video presentation:__
 
@@ -56,9 +58,6 @@ While it is recommended to have a 3-minute length video, it is okay to go slight
 __Poster presentation:__
 
 NeurIPS provides a landscape board (8 ft x 4 ft). There are only poster presentations for the Creative AI Track (no oral presentations).
-
-
-
 
 # Call for Papers and Artworks
 
