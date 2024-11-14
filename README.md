@@ -43,7 +43,7 @@ __CMT:__ Submit your camera-ready submission on the [CMT portal](https://cmt3.re
 
 __Presentation Time and Location:__
 
-You will be able to find your session schedule on the NeurIPS website (https://neurips.cc/virtual/2024/calendar) when you log in using the same email address used for the submission. Please let us know if there is any issue.
+You will be able to find your session [schedule](https://neurips.cc/virtual/2024/calendar) on the NeurIPS website  when you log in using the same email address used for the submission. Please let us know if there is any issue.
 
 It is advised to arrive earlier on the same day of your presentation if your setup is complex. You could, for example, come into the room 30 - 60 minutes prior.
 
