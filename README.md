@@ -43,13 +43,15 @@ __CMT:__ Submit your camera-ready submission on the [CMT portal](https://cmt3.re
 
 __Presentation Time and Location:__
 
-You will be able to find your session schedule on the NeurIPS website when you log in using the same email address used for the submission. It is advised to arrive earlier on the same day of your presentation if your setup is complex. 
+You will be able to find your session schedule on the NeurIPS website (https://neurips.cc/virtual/2024/calendar) when you log in using the same email address used for the submission. Please let us know if there is any issue.
+
+It is advised to arrive earlier on the same day of your presentation if your setup is complex. You could, for example, come into the room 30 - 60 minutes prior.
 
 __Booth presentation:__
 
 Each accepted work will be assigned to a booth with a 6’ draped table, 2 chairs, 500 watt power, 1 monitor (the dimensions for the 32" monitors in the Creative AI session room are 1920x1080), and a bulletin board for a landscape poster. 
 
-If you need additional equipment it is your responsibility to bring it, or locally arrange them. FYI you can order a monitor or other equipment through the venue by emailing wbuttimore@proshow.com or pfalk@proshow.com .
+If you need additional equipment it is your responsibility to bring it, or locally arrange them. FYI you can order a monitor or other equipment through the venue by emailing wbuttimore@proshow.com or pfalk@proshow.com . We provide power extension cord, however we only have a limited number of HDMI cables, so it is adviced to bring your own.
 
 __Video presentation:__
 
