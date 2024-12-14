@@ -110,7 +110,7 @@ To stay up-to-date with all future announcements, please join our [mailing list]
 For other inquiries, please contact [creative-ai-chairs@neurips.cc](mailto:creative-ai-chairs@neurips.cc) and/or [neuripscreativeai@gmail.com](mailto:neuripscreativeai@gmail.com).
 
 * Jean Oh / roBot Intelligence Group / Carnegie Mellon University
-* Marcelo Coelho / Design Intelligence Lab / MIT
+* Marcelo Coelho / Design Intelligence Lab / MIT and Cornell University
 * Yingtao Tian / Google DeepMind
 * Lia Coleman / Carnegie Mellon University
 * Peter Schaldenbrand / roBot Intelligence Group / Carnegie Mellon University
