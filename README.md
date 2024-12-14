@@ -111,7 +111,7 @@ For other inquiries, please contact [creative-ai-chairs@neurips.cc](mailto:creat
 
 * Jean Oh / roBot Intelligence Group / Carnegie Mellon University
 * Marcelo Coelho / Design Intelligence Lab / MIT and Cornell University
-* Yingtao Tian / Google DeepMind
+* Yingtao Tian / Sakana AI
 * Lia Coleman / Carnegie Mellon University
 * Peter Schaldenbrand / roBot Intelligence Group / Carnegie Mellon University
 
